@@ -1,0 +1,12 @@
+name: geoinf
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - streamlit
+  - geopandas
+  - rasterio
+  - matplotlib
+  - streamlit-folium
+  - jupyter
+prefix: /home/rafal/tools/miniconda3/envs/geoinf
